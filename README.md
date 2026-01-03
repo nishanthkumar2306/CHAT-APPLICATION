@@ -1,4 +1,4 @@
-<img width="909" height="485" alt="image" src="https://github.com/user-attachments/assets/4863aa0e-0a99-45ec-b79a-1ce2bafd6a43" /># CHAT-APPLICATIO
+# CHAT-APPLICATION
 
 "COMPANY": CODTECH IT SOLUTIONS
 
