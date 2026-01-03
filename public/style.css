@@ -1,0 +1,35 @@
+/* Style applied to entire page */
+body {
+    font-family: Arial;
+    background-color: #f2f2f2;
+}
+
+/* Chat box container styling */
+.chat-box {
+    width: 350px;
+    margin: 50px auto;        /* Center the chat box */
+    background: white;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+/* Message display area */
+#messages {
+    height: 200px;
+    border: 1px solid gray;
+    overflow-y: scroll;       /* Scroll when messages overflow */
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+/* Individual message container */
+.message {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+/* Button styling */
+button {
+    cursor: pointer;
+}
